@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5d572dc-352e-4e7b-a60e-1bf06246e1d4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-60672215">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="639" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="639" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/test/observer/ZhihuQuestion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+              <folding>
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/test/observer/ZhihuAnswer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="28" />
+              <folding>
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/test/observer/ZhihuUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/test/observer/ZhihuUser1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/test/observer/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Observable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="106" column="23" lean-forward="true" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
+              <folding>
+                <element signature="e#3747#3748#0" expanded="true" />
+                <element signature="e#3784#3785#0" expanded="true" />
+                <element signature="e#5937#5938#0" expanded="true" />
+                <element signature="e#5967#5968#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Observer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getInstance</find>
+      <find>localeExtensions</find>
+      <find>Locale(</find>
+      <find>createObject(</find>
+      <find>getInstance(</find>
+      <find>Cache</find>
+      <find>itr</find>
+      <find>iterator</find>
+      <find>factory</find>
+      <find>数值</find>
+      <find>long</find>
+      <find>enter_from_0</find>
+      <find>divide_by</find>
+      <find>text</find>
+      <find>showLabel</find>
+      <find>.text(</find>
+      <find>use_type_info</find>
+      <find>currentdate</find>
+      <find>lastname</find>
+      <find>counter</find>
+      <find>use_counter</find>
+      <find>topLabel</find>
+      <find>days</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/test/Dimit/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/test/bulider/Test.java" />
+        <option value="$PROJECT_DIR$/../Historical-ranking-data-visualization-based-on-d3.js-master/src/config.js" />
+        <option value="$PROJECT_DIR$/../Historical-ranking-data-visualization-based-on-d3.js-master/src/visual.js" />
+        <option value="$PROJECT_DIR$/src/com/test/adapter/Adaptee.java" />
+        <option value="$PROJECT_DIR$/src/com/test/adapter/Achieve.java" />
+        <option value="$PROJECT_DIR$/src/com/test/adapter/AchieveTarget.java" />
+        <option value="$PROJECT_DIR$/src/com/test/adapter/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/com/test/objectAdapter/Target.java" />
+        <option value="$PROJECT_DIR$/src/com/test/objectAdapter/AchieveAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/test/objectAdapter/Achievetarget.java" />
+        <option value="$PROJECT_DIR$/src/com/test/objectAdapter/Adaptee.java" />
+        <option value="$PROJECT_DIR$/src/com/test/objectAdapter/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/com/test/adapter/LifeScene/AC220.java" />
+        <option value="$PROJECT_DIR$/src/com/test/adapter/LifeScene/DC5.java" />
+        <option value="$PROJECT_DIR$/src/com/test/adapter/LifeScene/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/com/test/adapter/LifeScene/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy/PromotionStategy.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy/zengpinPromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy/zengPinPromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy/ZenginPromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy/manjianPromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy/fanxianPromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy/FanXianPromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy/PromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy/UseStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy/EmptyPromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy/PromotionStrategyFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy1/Fight.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy1/Speed.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy1/Character.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy1/SlowSpeed.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy1/FirstFight.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy1/RedCharacter.java" />
+        <option value="$PROJECT_DIR$/src/com/test/stategy1/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/test/adapter/Target.java" />
+        <option value="$PROJECT_DIR$/src/com/test/adapter/LifeScene/PowerAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/test/adapter/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/test/decorator/AbatterCake.java" />
+        <option value="$PROJECT_DIR$/src/com/test/decorator/BatterCake.java" />
+        <option value="$PROJECT_DIR$/src/com/test/decorator/EggDecortor.java" />
+        <option value="$PROJECT_DIR$/src/com/test/decorator/SasungDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/test/decorator/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/test/decorator/EggDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/test/decorator/AbstractDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/test/observer/ZhihuQuestion.java" />
+        <option value="$PROJECT_DIR$/src/com/test/observer/ZhihuUser.java" />
+        <option value="$PROJECT_DIR$/src/com/test/observer/ZhihuAnswer.java" />
+        <option value="$PROJECT_DIR$/src/com/test/observer/ZhihuUser1.java" />
+        <option value="$PROJECT_DIR$/src/com/test/observer/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="471" />
+    <option name="y" value="-9" />
+    <option name="width" value="864" />
+    <option name="height" value="471" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="fileTemplates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="inspectionProfiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="launcher&#9;PSI&#9;JAVA://sun.misc.Launcher&#10;urlstr&#9;PSI&#9;JAVA://java.net.URLStreamHandlerFactory&#10;arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;colle&#9;PSI&#9;JAVA://java.util.Collection&#10;calen&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Calendar.java&#10;cal&#9;PSI&#9;JAVA://java.util.Calendar" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558338582485" />
+    <property name="last_opened_file_path" value="D:/githubProjects/DesignPattern/Java/observer" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.test.stategy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test.observer" />
+      <recent name="com.test.decorator" />
+      <recent name="com.test.stategy" />
+      <recent name="com.test.objectAdapter" />
+      <recent name="com.test.abstractFactory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/test/factory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (4)">
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.stategy1.Test" />
+      <module name="DesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.stategy1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.adapter.Test" />
+      <module name="DesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.observer.Test" />
+      <module name="DesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.stategy.Test" />
+      <module name="DesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.stategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.decorator.Test" />
+      <module name="DesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test (5)" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (4)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5d572dc-352e-4e7b-a60e-1bf06246e1d4" name="Default" comment="" />
+      <created>1550144042158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550144042158</updated>
+      <workItem from="1550144052984" duration="236000" />
+      <workItem from="1550210874788" duration="567000" />
+      <workItem from="1550234779401" duration="2237000" />
+      <workItem from="1550317862257" duration="1200000" />
+      <workItem from="1550319828864" duration="314000" />
+      <workItem from="1550320259424" duration="525000" />
+      <workItem from="1550320884892" duration="493000" />
+      <workItem from="1550321501186" duration="3108000" />
+      <workItem from="1550399595071" duration="1426000" />
+      <workItem from="1550401328685" duration="1556000" />
+      <workItem from="1550403674688" duration="84000" />
+      <workItem from="1550403974527" duration="9292000" />
+      <workItem from="1551269535140" duration="1873000" />
+      <workItem from="1551332727199" duration="661000" />
+      <workItem from="1551334484539" duration="6507000" />
+      <workItem from="1551622239802" duration="547000" />
+      <workItem from="1551869751970" duration="5698000" />
+      <workItem from="1552390568679" duration="1728000" />
+      <workItem from="1552396131240" duration="6862000" />
+      <workItem from="1553083492392" duration="5185000" />
+      <workItem from="1553578376156" duration="15819000" />
+      <workItem from="1558263086397" duration="12591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78509000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2287793" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32624114" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32976446" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32976446" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Ant Build" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/test/stategy/PromotionStrategy.java</url>
+          <line>3</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/test/objectAdapter/Achievetarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/objectAdapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/objectAdapter/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.test.stategy.EmptyPromotionStrategy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.test.stategy.EmptyPromotionStrategy</OriginalElement>
+          <nodes>
+            <node x="338.0" y="500.0">com.test.stategy.Test</node>
+            <node x="0.0" y="0.0">com.test.stategy.PromotionStrategyFactory</node>
+            <node x="676.0" y="401.0">com.test.stategy.EmptyPromotionStrategy</node>
+            <node x="451.0" y="401.0">com.test.stategy.ZengPinPromotionStrategy</node>
+            <node x="0.0" y="500.0">com.test.stategy.UseStrategy</node>
+            <node x="226.99999999999997" y="401.0">com.test.stategy.FanXianPromotionStrategy</node>
+            <node x="163.5" y="152.0">com.test.stategy.PromotionStrategyFactory.ActivityName</node>
+            <node x="344.25" y="297.0">com.test.stategy.PromotionStrategy</node>
+            <node x="0.0" y="401.0">com.test.stategy.ManJianPromotionStrategy</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.test.stategy.EmptyPromotionStrategy" target="com.test.stategy.PromotionStrategy">
+              <point x="0.0" y="-27.0" />
+              <point x="773.5" y="371.0" />
+              <point x="514.0" y="371.0" />
+              <point x="72.75" y="27.0" />
+            </edge>
+            <edge source="com.test.stategy.ZengPinPromotionStrategy" target="com.test.stategy.PromotionStrategy">
+              <point x="0.0" y="-27.0" />
+              <point x="553.5" y="381.0" />
+              <point x="465.5" y="381.0" />
+              <point x="24.25" y="27.0" />
+            </edge>
+            <edge source="com.test.stategy.FanXianPromotionStrategy" target="com.test.stategy.PromotionStrategy">
+              <point x="0.0" y="-27.0" />
+              <point x="329.0" y="381.0" />
+              <point x="417.0" y="381.0" />
+              <point x="-24.25" y="27.0" />
+            </edge>
+            <edge source="com.test.stategy.PromotionStrategyFactory.ActivityName" target="com.test.stategy.PromotionStrategyFactory">
+              <point x="0.0" y="-50.0" />
+              <point x="0.0" y="51.0" />
+            </edge>
+            <edge source="com.test.stategy.ManJianPromotionStrategy" target="com.test.stategy.PromotionStrategy">
+              <point x="0.0" y="-27.0" />
+              <point x="103.5" y="371.0" />
+              <point x="368.5" y="371.0" />
+              <point x="-72.75" y="27.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.922875816993464" x="240.0" y="248.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy/FanXianPromotionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" lean-forward="true" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy/ManJianPromotionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" lean-forward="true" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy/UseStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="40" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/util/Comparator.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Comparator.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy1/FirstFight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy1/SlowSpeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy1/Speed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy1/Fight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="1" selection-start-line="4" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy1/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy1/RedCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy/EmptyPromotionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy/PromotionStrategyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy/PromotionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="29" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/stategy/ZengPinPromotionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.test.stategy.ZengPinPromotionStrategy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.test.stategy.ZengPinPromotionStrategy</OriginalElement>
+          <nodes>
+            <node x="246.0" y="157.0">com.test.stategy.Test</node>
+            <node x="0.0" y="157.0">com.test.stategy.PromotionStrategyFactory</node>
+            <node x="0.0" y="81.0">com.test.stategy.EmptyPromotionStrategy</node>
+            <node x="666.0" y="81.0">com.test.stategy.ZengPinPromotionStrategy</node>
+            <node x="215.0" y="81.0">com.test.stategy.FanXianPromotionStrategy</node>
+            <node x="350.25" y="0.0">com.test.stategy.PromotionStrategy</node>
+            <node x="439.0" y="81.0">com.test.stategy.ManJianPromotionStrategy</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.test.stategy.EmptyPromotionStrategy" target="com.test.stategy.PromotionStrategy">
+              <point x="0.0" y="-15.5" />
+              <point x="97.5" y="51.0" />
+              <point x="370.125" y="51.0" />
+              <point x="-59.625" y="15.5" />
+            </edge>
+            <edge source="com.test.stategy.ZengPinPromotionStrategy" target="com.test.stategy.PromotionStrategy">
+              <point x="0.0" y="-15.5" />
+              <point x="768.5" y="51.0" />
+              <point x="489.375" y="51.0" />
+              <point x="59.625" y="15.5" />
+            </edge>
+            <edge source="com.test.stategy.FanXianPromotionStrategy" target="com.test.stategy.PromotionStrategy">
+              <point x="0.0" y="-15.5" />
+              <point x="317.0" y="61.0" />
+              <point x="409.875" y="61.0" />
+              <point x="-19.875" y="15.5" />
+            </edge>
+            <edge source="com.test.stategy.ManJianPromotionStrategy" target="com.test.stategy.PromotionStrategy">
+              <point x="0.0" y="-15.5" />
+              <point x="542.5" y="61.0" />
+              <point x="449.625" y="61.0" />
+              <point x="19.875" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5387205387205387" x="436.0" y="-25.0" />
+          <SelectedNodes>
+            <node>com.test.stategy.ZengPinPromotionStrategy</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.test.adapter.AchieveTarget">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.test.adapter.AchieveTarget</OriginalElement>
+          <nodes>
+            <node x="152.0" y="81.0">com.test.adapter.Adapter</node>
+            <node x="175.25" y="0.0">com.test.adapter.Adaptee</node>
+            <node x="44.0" y="0.0">com.test.adapter.Target</node>
+            <node x="0.0" y="81.0">com.test.adapter.AchieveTarget</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.test.adapter.AchieveTarget" target="com.test.adapter.Target">
+              <point x="0.0" y="-15.5" />
+              <point x="-22.0" y="15.5" />
+            </edge>
+            <edge source="com.test.adapter.Adapter" target="com.test.adapter.Adaptee">
+              <point x="24.25" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.test.adapter.Adapter" target="com.test.adapter.Target">
+              <point x="-24.25" y="-15.5" />
+              <point x="176.25" y="56.0" />
+              <point x="110.0" y="56.0" />
+              <point x="22.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-102.0" y="-142.0" />
+          <SelectedNodes>
+            <node>com.test.adapter.AchieveTarget</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/xml/bind/annotation/adapters/XmlAdapter.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/xml/bind/annotation/adapters/XmlJavaTypeAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/adapter/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/adapter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/adapter/AchieveTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/adapter/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/adapter/LifeScene/DC5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/adapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/adapter/LifeScene/PowerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/adapter/LifeScene/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/adapter/LifeScene/AC220.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/DesignPatterns/com/test/abstractFactory/PythonArticle.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/decorator/AbatterCake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/decorator/EggDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/decorator/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/decorator/SasungDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.test.decorator.AbatterCake">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.test.decorator.AbatterCake</OriginalElement>
+          <nodes>
+            <node x="167.50000000000003" y="0.0">com.test.decorator.AbatterCake</node>
+            <node x="166.00000000000003" y="162.0">com.test.decorator.EggDecorator</node>
+            <node x="248.50000000000003" y="81.0">com.test.decorator.BatterCake</node>
+            <node x="74.50000000000003" y="81.0">com.test.decorator.AbstractDecorator</node>
+            <node x="0.0" y="162.0">com.test.decorator.SasungDecorator</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.test.decorator.SasungDecorator" target="com.test.decorator.AbstractDecorator">
+              <point x="0.0" y="-15.5" />
+              <point x="73.0" y="137.0" />
+              <point x="113.00000000000003" y="137.0" />
+              <point x="-38.5" y="15.5" />
+            </edge>
+            <edge source="com.test.decorator.AbstractDecorator" target="com.test.decorator.AbatterCake">
+              <point x="0.0" y="-15.5" />
+              <point x="151.50000000000003" y="56.0" />
+              <point x="197.50000000000003" y="56.0" />
+              <point x="-30.0" y="15.5" />
+            </edge>
+            <edge source="com.test.decorator.BatterCake" target="com.test.decorator.AbatterCake">
+              <point x="0.0" y="-15.5" />
+              <point x="303.5" y="56.0" />
+              <point x="257.5" y="56.0" />
+              <point x="30.0" y="15.5" />
+            </edge>
+            <edge source="com.test.decorator.EggDecorator" target="com.test.decorator.AbstractDecorator">
+              <point x="0.0" y="-15.5" />
+              <point x="230.00000000000003" y="137.0" />
+              <point x="190.00000000000003" y="137.0" />
+              <point x="38.5" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="182.5" y="96.5" />
+          <SelectedNodes>
+            <node>com.test.decorator.AbatterCake</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/decorator/BatterCake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/decorator/AbstractDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/beans/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1214">
+          <caret line="94" selection-start-line="52" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/beans/InvalidationListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/observer/ZhihuAnswer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/observer/ZhihuUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/observer/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/observer/ZhihuUser1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/observer/ZhihuQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="106" column="23" lean-forward="true" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
+          <folding>
+            <element signature="e#3747#3748#0" expanded="true" />
+            <element signature="e#3784#3785#0" expanded="true" />
+            <element signature="e#5937#5938#0" expanded="true" />
+            <element signature="e#5967#5968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

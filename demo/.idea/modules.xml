@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-branch/auth-branch.iml" filepath="$PROJECT_DIR$/auth-branch/auth-branch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-branch-api/auth-branch-api.iml" filepath="$PROJECT_DIR$/auth-branch-api/auth-branch-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-consumer/auth-consumer.iml" filepath="$PROJECT_DIR$/auth-consumer/auth-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-master/auth-master.iml" filepath="$PROJECT_DIR$/auth-master/auth-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-master-api/auth-master-api.iml" filepath="$PROJECT_DIR$/auth-master-api/auth-master-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+    </modules>
+  </component>
+</project>

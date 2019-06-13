@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="auth-branch" />
+        <module name="auth-branch-api" />
+        <module name="auth-consumer" />
+        <module name="auth-master" />
+        <module name="auth-master-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth-branch" target="1.8" />
+      <module name="auth-branch-api" target="1.8" />
+      <module name="auth-consumer" target="1.8" />
+      <module name="auth-master" target="1.8" />
+      <module name="auth-master-api" target="1.8" />
+      <module name="demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
