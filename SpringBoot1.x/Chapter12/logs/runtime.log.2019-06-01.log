@@ -26,3 +26,6 @@
 2019-06-01 15:27:55.273 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
 2019-06-01 15:27:55.291 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
 2019-06-01 15:27:55.294 [main] INFO  com.yuqiyu.Chapter12Application - Started Chapter12Application in 2.534 seconds (JVM running for 4.962)
+2019-06-03 10:19:36.119 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-06-03 10:19:36.126 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+2019-06-03 10:19:36.182 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 54 ms
